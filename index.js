@@ -1,23 +1,15 @@
-// Challenge 2:
-// Replace the arguments below according to your preference.
-
 // space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("space")
+favouriteMovieGenre("cowboy")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("avocado")
+favouriteFruit("blueberry")
 
 // light, dark
 favouriteMode("dark")
 
 // sharp, soft, round
-favouriteEdgeStyle("soft")
+favouriteEdgeStyle("round")
 
-
-
-////////////////////////////////////
-// IGONE THE CODE BELOW THIS LINE //
-////////////////////////////////////
 
 function setProp(prop, value) {
     document.documentElement.style.setProperty(prop, value)
